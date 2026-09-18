@@ -1,0 +1,6 @@
+{
+  "name": "Family Chat & Call",
+  "description": "Family and friends audio/video calling, encrypted messaging, disappearing stories, and live location safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
